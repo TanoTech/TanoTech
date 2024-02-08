@@ -8,6 +8,8 @@ Technlogy I use:
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Bulma](https://img.shields.io/badge/-Bulma-%2300D1B2?style=flat-square&logo=bulma&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-%2338B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS-%23CC6699?style=flat-square&logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-%23764ABC?style=flat-square&logo=redux&logoColor=white)
