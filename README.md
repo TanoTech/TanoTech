@@ -19,6 +19,7 @@
 ![CSharp](https://img.shields.io/badge/-C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-%2300f?style=flat-square&logo=sql&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-%23512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-%230db7ed?style=flat-square&logo=docker&logoColor=white)
 ![Azure Data Studio](https://img.shields.io/badge/-Azure%20Data%20Studio-%230072C6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
