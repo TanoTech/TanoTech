@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TanoTech aka Gaetano Napoli.
 - 👀 I’m interested in coding, music, trekking, wildlife and astrophotography.
+-  🌍 Proudly from Sicily, Italy.
 - 📫 How to reach me https://www.linkedin.com/in/gaetano-napoli
-
 
 Technlogy I use: 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
