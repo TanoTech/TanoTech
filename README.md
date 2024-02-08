@@ -28,4 +28,3 @@
 ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-%23666666?style=flat-square&logo=davinci-resolve&logoColor=white)
 ![Logic Pro](https://img.shields.io/badge/-Logic%20Pro-%23007ACC?style=flat-square&logo=apple&logoColor=white)
 ![Cubase](https://img.shields.io/badge/-Cubase-%2300508D?style=flat-square&logo=steinberg&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-%2300BFFF?style=flat-square&logo=openai&logoColor=white)
