@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @TanoTech aka Gaetano Napoli.
-- 👀 I’m interested in coding, music, trekking, wildlife and astrophotography.
+- 👀 I’m interested in coding, music, trekking, wildlife and astrophotography. ![Coffee Lover](https://img.shields.io/badge/-Coffee%20Lover-%236f4e37?style=flat-square&logo=coffee&logoColor=white)
+
 -  🌍 Proudly from Sicily, Italy.
 - 📫 How to reach me https://www.linkedin.com/in/gaetano-napoli
 
