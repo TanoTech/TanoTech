@@ -18,4 +18,6 @@ Technlogy I use:
 ![SQL](https://img.shields.io/badge/-SQL-%2300f?style=flat-square&logo=sql&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-%23512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-%23999999?style=flat-square&logo=apple&logoColor=white)
-
+![Canon](https://img.shields.io/badge/-Canon-%23A10000?style=flat-square&logo=canon&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-%231c1c1c?style=flat-square&logo=adobe-lightroom&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-%23666666?style=flat-square&logo=davinci-resolve&logoColor=white)
