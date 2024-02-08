@@ -17,3 +17,5 @@ Technlogy I use:
 ![CSharp](https://img.shields.io/badge/-C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-%2300f?style=flat-square&logo=sql&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-%23512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-%23999999?style=flat-square&logo=apple&logoColor=white)
+
