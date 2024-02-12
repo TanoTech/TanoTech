@@ -29,3 +29,7 @@
 ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-%23666666?style=flat-square&logo=davinci-resolve&logoColor=white)
 ![Logic Pro](https://img.shields.io/badge/-Logic%20Pro-%23007ACC?style=flat-square&logo=apple&logoColor=white)
 ![Cubase](https://img.shields.io/badge/-Cubase-%2300508D?style=flat-square&logo=steinberg&logoColor=white)
+![JSON](https://img.shields.io/badge/-JSON-%238CDD81?style=flat-square&logo=json&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-%235C2D91?style=flat-square&logo=visualstudio&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-%2300ADEF?style=flat-square&logo=windows&logoColor=white)
+
